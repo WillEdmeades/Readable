@@ -1,0 +1,35 @@
+{
+  "fill" : "system-light",
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "blend-mode" : "normal",
+          "image-name" : "5EE19969-DE5F-4297-8564-383E1CD5335A.png",
+          "name" : "5EE19969-DE5F-4297-8564-383E1CD5335A",
+          "position" : {
+            "scale" : 1.77,
+            "translation-in-points" : [
+              -0.8849999999999909,
+              0.8849999999999909
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
